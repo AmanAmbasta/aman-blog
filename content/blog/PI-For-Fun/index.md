@@ -17,7 +17,7 @@ For me this become more intresting when i came accross [***Why do colliding bloc
 Here are some of way which i find interesting.
 
 ### Natural Definition
-Well as definition suggest that *ratio of a *circle's circumference to its diameter*.
+Well as definition suggest that *ratio of a circle's circumference to its diameter*.
 Or for simplification *The circumference of a circle with diameter 1 is π*. [![Rolling unit circle](./640px-Pi-unrolled-720.gif)](https://en.wikipedia.org/wiki/File:Pi-unrolled-720.gif#/media/File:Pi-unrolled-720.gif)
 
 ### Polygon Approximation
