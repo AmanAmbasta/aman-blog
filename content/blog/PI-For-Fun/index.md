@@ -8,7 +8,7 @@ The value of pi is 3 plus an infinite number of digits after the decimal point: 
 >The famous mathematical constant **π**, the symbol used by mathematicians to represent the ratio of a *circle's circumference* to its
 >*diameter* is the lowercase Greek letter **π**.In English, **π** is pronounced as ***pie***.
 
-Before moving futher, fun fact **pi** is so huge that you may [find your Bithday within it](https://www.angio.net/pi/).
+Before moving futher, fun fact **pi** is so huge that you may [find your Birthday within it](https://www.angio.net/pi/).
 Computers have now calculated at least ***12 trillion*** digits for π.
 Well for me the hunt started in school in our where we know **π** as 22/7 or 3.1415..., i never thought there is whole diffrent world running for those 3 dot(.).
 
@@ -26,7 +26,7 @@ For sake simplicity, lets get *circle inscribed in a square* such that diameter(
 Now from here we can say 
 ![Pi cal by area](./math-20200521.png)
 
-Here is a [simple simulation](http://) this. It might seems prommising but it take long to calculate significant digits by this method.
+Here is a [simple simulation](http://) this. It might seems promising but it take long to calculate significant digits by this method.
 
 ### Madhava–Leibniz series
 As it is a special case of a more general series expansion for the inverse tangent function, first discovered by Sangamagrama, the specific case first published by Gottfried Leibniz.
@@ -41,7 +41,7 @@ All the above mention series are interesting and fun to play with but the quest 
 One of his formulae, based on *modular equations*, is
               ![Rapidly convergent series](./Rapidly convergent series.svg)
 
-Scary yeah??? Seems like 🚀🚀 Rocket Scince 🚀🚀,but surprisingly, it show very prommising result in few iteration.
+Scary yeah??? Seems like 🚀🚀 Rocket Scince 🚀🚀,but surprisingly, it show very promising result in few iteration.
 This series opens up new doors🚪 for the hunts of the ***three dots***(3.141...) and setting up new records.
 
 - In 1989, *Chudnovsky brothers* computed π to over ***1 billion*** decimal places on the *supercomputer IBM 3090*.
